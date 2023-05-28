@@ -1,4 +1,4 @@
-animal = "   chanchito FELIZ "
+animal = "   Lobito FELIZ "
 print(animal.upper())
 print(animal.lower())
 print(animal.strip().capitalize())
